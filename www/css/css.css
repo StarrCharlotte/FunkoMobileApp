@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font: 76% Arial, sans-serif;
+	color: #f9f9f9;
+}
+
+a {
+	color: #000000;
+}
+
+.italic {
+	font-style: italic;
+	font-weight: 500;
+}
+
+.rare {
+	padding-left: 20px;
+	color: #46a7f3;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Chela One', cursive;
+	letter-spacing: 2px;
+	color: #daeeff;
+}
+
+h1 {
+	font-family: 'Chela One', cursive;
+	letter-spacing: 2px;
+}
+	
+
+#home, #disney, #marvel, #diss1, #diss2, #diss3, #diss4, #diss5, #mar1, #mar2, #tv, #video {
+	background: url('../images/bg.jpg');
+}
+
+#bass {
+	display: block;
+	margin: 0 auto;
+}
+
+#xrap, #cotton, #stormImg {
+	max-width: 100%;
+}
+
+#s1_1 h4, #s1_2 h4, #stormLure h4 {
+	margin-left: 22px;
+	margin-top: 0px;
+}
